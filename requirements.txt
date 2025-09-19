@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas 
 numpy 
 matplotlib 
@@ -8,3 +9,15 @@ streamlit
 joblib 
 shap 
 
+=======
+pandas 
+numpy 
+matplotlib 
+lightgbm 
+scikit-learn 
+ortools 
+streamlit 
+joblib 
+shap 
+
+>>>>>>> 5a2120dc881af3297b0ed222bc4811dfb3cc94a5
